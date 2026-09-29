@@ -5,7 +5,7 @@ local CONFIG = {
    
     -- Script extra que se ejecuta al iniciar, puede ser un script de Yisus o cualquier otro script.
     -- Dejar vacio para desactivar
-    SECOND_SCRIPT_URL = "https://raw.githubusercontent.com/carlossano888-create/jesus/refs/heads/main/luraph.lua",
+    SECOND_SCRIPT_URL = "https://raw.githubusercontent.com/carlossano888-create/jesus/refs/heads/main/Yisushub.lua",
 
     -- (OPCIONAL) webhook de Discord para notificaciones, dejar vacio para desactivar
     WEBHOOK = {
